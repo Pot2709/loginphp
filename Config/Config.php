@@ -1,5 +1,5 @@
 <?php
-    const base_url = "http://localhost/login/";
+    const base_url = "http://localhost/loginphp/";
 
     const host = "localhost";
     const user = "root";
