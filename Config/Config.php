@@ -1,4 +1,5 @@
 <?php
+// corregir el nombre
     const base_url = "http://localhost/loginphp/";
 
     const host = "localhost";
